@@ -8,6 +8,7 @@
 
 - Front-end Developer with a background in architecture and the music business.
 - Currently working at [Critical Techworks](https://www.linkedin.com/company/criticaltechworks/).
+- From Lisbon, Portugal.
 
 ---
 
