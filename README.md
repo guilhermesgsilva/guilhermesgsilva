@@ -20,9 +20,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,react,nodejs,git,github,vscode&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,react,nodejs,git,github,vscode">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,github,vscode" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git" />
   </picture>
 </p>
 
