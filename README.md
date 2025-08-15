@@ -8,8 +8,6 @@
 
 ---
 
-<br/>
-
 ## ℹ About Me
 
 <br/>
@@ -21,8 +19,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -37,8 +33,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ## 🌐 Connect with Me
 
