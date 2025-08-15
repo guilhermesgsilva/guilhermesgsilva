@@ -30,10 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-HTML5 | CSS3 | JavaScript ES6 | Typescript | React | React Native | MongoDB | Mongoose | Express | Node.js | REST APIs | Axios | Jest | Git
-</p>
-
 <br/>
 
 ---
