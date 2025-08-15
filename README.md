@@ -4,14 +4,19 @@
 
 ---
 
+
 ## ℹ About Me
+
 
 - Front-end Developer with a background in architecture and the music business.
 - Currently working at [Critical Techworks](https://www.linkedin.com/company/criticaltechworks/).
 
+
 ---
 
+
 ## 🛠️ Languages & Tools
+
 
 <p align="center">
   <picture>
@@ -21,9 +26,13 @@
   </picture>
 </p>
 
+
 ---
 
+
 ## 🌐 Connect with Me
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-sg-silva/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
