@@ -19,11 +19,21 @@
 
 
 <p align="center">
+  <!-- Skill Icons (dark/light mode aware) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,express,nodejs,git" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,react, mongodb,express,nodejs,git&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,react,mongodb,express,nodejs,git">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react,mongodb,express,nodejs,git" />
   </picture>
+</p>
+
+<p align="center">
+  <!-- Shields.io badges for missing ones -->
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat" />
 </p>
 
 
