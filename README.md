@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,jest,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,reactnative,nextjs,mongodb,express,nodejs,jest,git" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's get connected!
 
 <br/>
 
