@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Guilherme+🚀;Front-end+Developer+💻" alt="Typing SVG" />
 </p>
 <br/>
+
 ---
+
 <br/>
 ## ℹ About Me
 
@@ -11,7 +13,9 @@
 - Currently working at [Critical Techworks](https://www.linkedin.com/company/criticaltechworks/).
 - From Lisbon, Portugal.
 <br/>
+
 ---
+
 <br/>
 ## 🛠️ Languages & Tools
 
@@ -21,7 +25,9 @@
   </a>
 </p>
 <br/>
+
 ---
+
 <br/>
 ## 🌐 Connect with Me
 
