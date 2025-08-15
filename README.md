@@ -12,6 +12,8 @@
 
 ## ℹ About Me
 
+<br/>
+
 - Front-end Developer with a background in architecture and the music business.
 - Currently working at [Critical Techworks](https://www.linkedin.com/company/criticaltechworks/).
 - From Lisbon, Portugal.
@@ -23,6 +25,8 @@
 <br/>
 
 ## 🛠️ Languages & Tools
+
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,6 +41,8 @@
 <br/>
 
 ## 🌐 Connect with Me
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-sg-silva/">
