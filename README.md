@@ -6,8 +6,6 @@
 
 <br/>
 
----
-
 ## ℹ About Me
 
 <br/>
@@ -17,8 +15,6 @@
 - 🎯 From Lisbon, Portugal.
 
 <br/>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -31,8 +27,6 @@
 </p>
 
 <br/>
-
----
 
 ## 🌐 Let's get connected!
 
